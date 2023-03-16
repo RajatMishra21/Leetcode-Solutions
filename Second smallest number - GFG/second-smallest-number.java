@@ -25,6 +25,7 @@ class GFG
 
 
 //User function Template for Java
+
 class Solution{
     static String secondSmallest(int S, int D){
        if(S >= D*9)
