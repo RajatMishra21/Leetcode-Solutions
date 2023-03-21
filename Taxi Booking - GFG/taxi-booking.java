@@ -63,8 +63,7 @@ class GFG {
 
 
 class Solution {
-    // code here
-    public static int minimumTime(int N, int cur, int[] pos, int[] time) {
+  public static int minimumTime(int N, int cur, int[] pos, int[] time) {
         // code here
         int minTime = Integer.MAX_VALUE;
     for (int i = 0; i < N; i++) {
