@@ -19,6 +19,7 @@ class GFG{
 
 // } Driver Code Ends
 //User function Template for Java
+
 class Solution 
 { 
     String removeReverse(String S) 
