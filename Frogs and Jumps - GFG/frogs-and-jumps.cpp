@@ -8,7 +8,7 @@ using namespace std;
 
 class Solution {
   public:
-      int unvisitedLeaves(int n, int leaves, int frogs[]) {
+     int unvisitedLeaves(int n, int leaves, int frogs[]) {
         unordered_map<int,int> mp;
         sort(frogs,frogs+n);
         for(int i=0;i<n;i++){
