@@ -56,7 +56,6 @@ class Solution:
             k = k % index_val
             r = index - 1
         return ans
-        #code here
 
 #{ 
  # Driver Code Starts.
