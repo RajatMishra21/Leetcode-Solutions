@@ -21,7 +21,7 @@ class GFG{
 //User function Template for Java
 class Solution 
 { 
-   int countSubstring(String S) 
+    int countSubstring(String S) 
     { 
         HashMap<Integer,Integer> map=new HashMap<>();
         map.put(0,1);
