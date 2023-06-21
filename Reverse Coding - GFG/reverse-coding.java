@@ -25,7 +25,7 @@ class GFG {
 //User function Template for Java
 
 class Solution {
-    static final int MOD = 1000000007;
+   static final int MOD = 1000000007;
     static int sumOfNaturals(int n) {
         // code here
         return  (int)(((n%MOD) * 1L * ((n+1)%MOD) /2) % MOD);
